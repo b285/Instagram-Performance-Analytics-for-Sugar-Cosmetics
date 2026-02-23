@@ -1,4 +1,4 @@
-<img width="1262" height="700" alt="image" src="https://github.com/user-attachments/assets/8dd160c3-4008-416f-b02f-72fa088e2e6c" /># 📊 Instagram Performance Analytics for Sugar Cosmetics
+# 📊 Instagram Performance Analytics for Sugar Cosmetics
 
 ## 🔷 Domain
 Digital Marketing | Social Media Analytics | Business Intelligence
@@ -79,7 +79,14 @@ Key Columns:
 ---
 
 ## 📷 Dashboard Preview
-<img width="1262" height="700" alt="Project" src="https://github.com/user-attachments/assets/245df660-ccb8-4dd8-b249-ef1ba6230411" />
+<img width="1262" height="700" alt="Project" src="https://github.com/user-attachments/assets/6d59ede9-92c0-44fe-aac0-3710611d5be6" />
+
+
+---
+
+## 🚀 Live Dashboard
+## 🚀 Live Dashboard
+https://public.tableau.com/yourlink
 
 ---
 
